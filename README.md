@@ -3,7 +3,7 @@
 An Arduino device consists of a red LED ligt that indicates if
 someone is on-air / using microphone. User can mute/unmute either 
 in MS teams and the device will show the correct state or user can 
-use on device physicall button to do the mute/unmute.
+use on device physical button to do the mute/unmute.
 
 ## Instructions
 * Start the python script (on_air.py).
