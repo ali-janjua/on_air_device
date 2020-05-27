@@ -9,7 +9,8 @@ use on device physical button to do the mute/unmute.
 * Start the python script (on_air.py).
 * Connect the device to your computer. Script will wait for and will
   show that the device is connected.
-* Start some MS teams conversation to verify.
+* Start some MS teams conversation (on display #1 of you have
+  multiple monitors) to verify.
 
 ## How to build the hardware
 You need following things to build the hardware...
