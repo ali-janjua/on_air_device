@@ -6,7 +6,13 @@ in MS teams and the device will show the correct state or user can
 use on device physical button to do the mute/unmute.
 
 ## Instructions
-* Start the python script (on_air.py).
+* Start the python3 script (on_air.py). If you are running for first
+time then you need to install following python 3 libraries:
+```
+pip3 install pyautogui
+pip3 install pyserial
+```
+
 * Connect the device to your computer. Script will wait for and will
   show that the device is connected.
 * Start some MS teams conversation (on display #1 of you have
